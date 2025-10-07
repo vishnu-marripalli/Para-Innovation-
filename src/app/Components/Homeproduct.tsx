@@ -40,7 +40,7 @@ declare global {
 }
 
 export default function Order() {
-  const images = ["/ct1.png", "/ct2.png", "/ct3.png"];
+  const images = ["/ct1.webp", "/ct2.webp", "/ct3.webp"];
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [showForm, setShowForm] = useState(false);
   const [quantity, setQuantity] = useState(1);

@@ -7,7 +7,7 @@ export default function HeroSection() {
   return (
     <div
       className="flex flex-col justify-center items-start min-h-[500px] px-6 md:px-16 bg-cover bg-bottom bg-no-repeat"
-      style={{ backgroundImage: "url('/hero.png')" }}
+      style={{ backgroundImage: "url('/hero.webp')" }}
     >
       <motion.h1
         className="text-4xl md:text-6xl font-semibold text-[#1C1C1C] leading-tight mb-4"

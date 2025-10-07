@@ -83,7 +83,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center px-6 py-3 max-w-7xl mx-auto">
                     <Link href="/parainnovation.com" className="flex items-center group">
                         <Image
-                            src="/para_logo.png"
+                            src="/Para_logo.png"
                             alt="Kisan Mithraa Logo"
                             width={20}
                             height={50}
