@@ -240,7 +240,7 @@ const Navbar = () => {
     <div className="flex items-center space-x-4">
       <Link href="/order" className="hidden sm:block">
         <button 
-        className="px-6 py-2 bg-gradient-to-r from-blue-500 to-indigo-500 text-white text-sm font-medium rounded-full shadow-md transition-all duration-300 hover:shadow-lg hover:scale-105"
+        className="px-6 py-2 bg-[#6BAF92]  hover:bg-[#5EA785] text-white text-sm font-medium rounded-full shadow-md transition-all duration-300 hover:shadow-lg hover:scale-105"
         >
           Order Now
         </button>
